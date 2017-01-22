@@ -1,0 +1,5 @@
+# Archivos creados por emu8086
+*.symbol
+*.debug
+*.list
+*.~asm
